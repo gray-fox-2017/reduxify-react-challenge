@@ -1,0 +1,5 @@
+export const LOGIN = 'LOGIN'
+export const GET_DATA_SOURCES = 'GET_DATA_SOURCES'
+export const GET_DATA_START = 'GET_DATA_START'
+export const GET_DATA_NEWS = 'GET_DATA_NEWS'
+export const GET_SOURCE_BY_SELECT = 'GET_SOURCE_BY_SELECT'
